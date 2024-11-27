@@ -23,7 +23,7 @@ function App() {
   // Create a URLSearchParams object
     const urlParams:URLSearchParams = new URLSearchParams(queryString);
     const userNameToUse:string = urlParams == null ? "": urlParams.get('username')?.toString()!
-    //ie localhost:5173/LeetcodeCal/?username=Peter-Kang
+    //ie localhost:5173/LeetCodeCal/?username=Peter-Kang
   
   return (
     <>
