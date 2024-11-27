@@ -1,5 +1,6 @@
 import './App.css'
-import LeetCodeCalendar from 'leetcode-calendar';
+// @ts-ignore
+import LeetCodeCalendar from 'leetcode-calendar'
 
 function App() {
   const exampleTheme = {
