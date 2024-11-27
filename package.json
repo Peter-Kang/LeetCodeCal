@@ -2,7 +2,6 @@
   "name": "leetcodecal",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Peter-Kang.github.io/LeetcodeCal",
   "type": "module",
   "scripts": {
     "dev": "vite",
